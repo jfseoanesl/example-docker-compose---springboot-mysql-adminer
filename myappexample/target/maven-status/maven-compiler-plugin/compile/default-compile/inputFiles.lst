@@ -1,0 +1,12 @@
+C:\Users\jseoanesl\Downloads\MyAppExample\myappexample\src\main\java\com\example\myappexample\exceptions\BadRequestException.java
+C:\Users\jseoanesl\Downloads\MyAppExample\myappexample\src\main\java\com\example\myappexample\MyappexampleApplication.java
+C:\Users\jseoanesl\Downloads\MyAppExample\myappexample\src\main\java\com\example\myappexample\exceptions\ResourceNotFoundException.java
+C:\Users\jseoanesl\Downloads\MyAppExample\myappexample\src\main\java\com\example\myappexample\mapStructs\PersonMapper.java
+C:\Users\jseoanesl\Downloads\MyAppExample\myappexample\src\main\java\com\example\myappexample\persistence\entities\PersonEntity.java
+C:\Users\jseoanesl\Downloads\MyAppExample\myappexample\src\main\java\com\example\myappexample\services\PersonService.java
+C:\Users\jseoanesl\Downloads\MyAppExample\myappexample\src\main\java\com\example\myappexample\controller\PersonController.java
+C:\Users\jseoanesl\Downloads\MyAppExample\myappexample\src\main\java\com\example\myappexample\controller\RestResponseEntityExceptionHandler.java
+C:\Users\jseoanesl\Downloads\MyAppExample\myappexample\src\main\java\com\example\myappexample\services\PersonServiceListImpl.java
+C:\Users\jseoanesl\Downloads\MyAppExample\myappexample\src\main\java\com\example\myappexample\repositories\PersonRepository.java
+C:\Users\jseoanesl\Downloads\MyAppExample\myappexample\src\main\java\com\example\myappexample\services\PersonServiceDBImp.java
+C:\Users\jseoanesl\Downloads\MyAppExample\myappexample\src\main\java\com\example\myappexample\domains\Person.java
